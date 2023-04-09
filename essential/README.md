@@ -7,6 +7,7 @@
 ## Examples of Strings in Python
 ![Screenshot](prtsc/stringsPython3.jpg)
 
-
+## Examples of Numbers in Python
+![Screenshot](prtsc/numbersPython3.jpg)
 
 
