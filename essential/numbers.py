@@ -1,8 +1,11 @@
 #Division
-print(3/2)
+print(7/3)
 
-#Modulo operator
-print (3%2) 
+#Floor division
+print(7//3)
+
+#Modulus operator
+print (7%3) 
 
 #Precedence of operators
 
