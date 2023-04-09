@@ -1,7 +1,7 @@
 #Division
 print(7/3)
 
-#Floor division
+#Floor division (also sometimes known as integer division)
 print(7//3)
 
 #Modulus operator (leftover, remainder in the division)
