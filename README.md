@@ -7,6 +7,15 @@ Python is a computer programming language often used to build websites and softw
 
 Reference: https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python
 
-### essential
-Introduction to the main data types and syntax of this programming language
+### 1- essential
+Introduction to the main data types and syntax of this programming language (examples):
+
+- Variable naming conventions / Constants
+- Strings
+- Numbers
+- Lists
+- Tuples
+- Sets
+- Dictionary
+- Control Flow: if-elif-else / lambda / for / while / break / continue
 
