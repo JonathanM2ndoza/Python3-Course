@@ -10,4 +10,5 @@
 ## Examples of Numbers in Python
 ![Screenshot](prtsc/numbersPython3.jpg)
 
-
+## Examples of Lists in Python
+![Screenshot](prtsc/listsPython3.jpg)
