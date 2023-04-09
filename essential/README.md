@@ -12,3 +12,6 @@
 
 ## Examples of Lists in Python
 ![Screenshot](prtsc/listsPython3.jpg)
+
+## Examples of Tuples in Python
+![Screenshot](prtsc/tuplesPython3.jpg)
