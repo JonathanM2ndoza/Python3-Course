@@ -21,3 +21,6 @@
 
 ## Examples of Dictionaries in Python
 ![Screenshot](prtsc/dictionariesPython3.jpg)
+
+## Examples of Control Flow in Python
+![Screenshot](prtsc/controlFlowPython3.jpg)
