@@ -15,3 +15,6 @@
 
 ## Examples of Tuples in Python
 ![Screenshot](prtsc/tuplesPython3.jpg)
+
+## Examples of Sets in Python
+![Screenshot](prtsc/tuplesPython3.jpg)
