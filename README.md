@@ -11,8 +11,9 @@ Reference: https://www.coursera.org/articles/what-is-python-used-for-a-beginners
 Introduction to the main data types and syntax of this programming language (examples):
 
 - Variable naming conventions / Constants
+- Input/Output
 - Strings
-- Numbers
+- Numbers / Operators 
 - Lists
 - Tuples
 - Sets
