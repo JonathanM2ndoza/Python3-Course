@@ -4,7 +4,7 @@ print(7/3)
 #Floor division
 print(7//3)
 
-#Modulus operator
+#Modulus operator (leftover, remainder in the division)
 print (7%3) 
 
 #Precedence of operators
