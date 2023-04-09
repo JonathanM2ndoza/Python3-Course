@@ -40,5 +40,6 @@ print(pets.index('cat'))
 #Remove Duplicates
 pets2 = ['cat', 'dog', 'hamster','cat', 'dog', 'hamster']
 print(pets2)
-pets2 = list(dict.fromkeys(pets2))
+pets2 = list(dict.fromkeys(pets2)) #Create a dictionary and convert a list
 print(pets2)
+
