@@ -27,3 +27,6 @@
 
 ## Examples of Functions in Python
 ![Screenshot](prtsc/functionsPython3.jpg)
+
+## Examples of Modules in Python
+![Screenshot](prtsc/modulesPython3.jpg)
