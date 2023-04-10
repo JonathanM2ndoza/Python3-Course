@@ -1,5 +1,5 @@
 # Python3-Course
-Python 3.11 from scratch (Developing)
+Python 3.11 from scratch
 
 ![Screenshot](python-logo.png)
 
@@ -20,4 +20,5 @@ Introduction to the main data types and syntax of this programming language (exa
 - Dictionary
 - Control Flow: if-elif-else / lambda / for / while / break / continue
 - Functions
+- Modules
 
