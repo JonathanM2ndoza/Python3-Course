@@ -24,3 +24,6 @@
 
 ## Examples of Control Flow in Python
 ![Screenshot](prtsc/controlFlowPython3.jpg)
+
+## Examples of Functions in Python
+![Screenshot](prtsc/functionsPython3.jpg)
