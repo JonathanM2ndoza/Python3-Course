@@ -22,3 +22,7 @@ Introduction to the main data types and syntax of this programming language (exa
 - Functions
 - Modules
 
+### 2- oop
+Introduction to the concepts of Object Oriented Programming (OOP) on Python:
+
+- Class / Constructor / Attributes / Methods
