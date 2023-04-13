@@ -26,3 +26,4 @@ Introduction to the main data types and syntax of this programming language (exa
 Introduction to the concepts of Object Oriented Programming (OOP) on Python:
 
 - Class / Constructor / Attributes / Methods
+- Class Method  / Static Method / Load File CSV in Static Method
