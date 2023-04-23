@@ -8,3 +8,13 @@
 ![Screenshot](prtsc/classOOPPython3.jpg)
 
 ![Screenshot](prtsc/inheritanceOOPPython3.jpg)
+
+## Examples of Encapsulation / Getters & Setters / Read-Only Attribute /Private attribute in Python
+![Screenshot](prtsc/petOOPPython3.jpg)
+
+![Screenshot](prtsc/catOOPPython3.jpg)
+
+![Screenshot](prtsc/dogOOPPython3.jpg)
+
+![Screenshot](prtsc/mainOOPPython3.jpg)
+
