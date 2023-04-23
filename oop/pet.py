@@ -10,10 +10,23 @@ class Pet:
         assert (name and not name.isspace()), f"Name {name} can not be empty."
         assert (birthDate != ''), f"BirthDate {birthDate} can not be empty."
         
-        self.name = name
+        self.__name = name
         self.birthDate = birthDate
 
         Pet.allPets.append(self)
+    
+    @property
+    # Read-Only Attribute
+    def name(self):
+        return self.__name
+    
+    @name.setter
+    # Control to rename 
+    def name(self, value):
+        if len(value) > 10:
+            raise Exception("The name is too long!")
+        else:
+            self.__name = value
     
     # __repr__ is a special method used to represent a class’s objects as a string. 
     def __repr__(self):
