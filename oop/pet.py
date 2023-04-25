@@ -11,7 +11,7 @@ class Pet:
         assert (birthDate != ''), f"BirthDate {birthDate} can not be empty."
         
         self.__name = name
-        self.birthDate = birthDate
+        self.__birthDate = birthDate
 
         Pet.allPets.append(self)
     
@@ -27,14 +27,23 @@ class Pet:
             raise Exception("The name is too long!")
         else:
             self.__name = value
+
+    @property
+    def birthDate(self):
+        return self.__birthDate
+    
+    @birthDate.setter
+    def birthDate(self, value):
+        assert (value != ''), f"BirthDate {value} can not be empty."
+        self.__birthDate = value
     
     # __repr__ is a special method used to represent a class’s objects as a string. 
     def __repr__(self):
-        return f"{self.__class__.__name__}('{self.name}', {self.birthDate}, {self.calculate_age()})"
+        return f"{self.__class__.__name__}('{self.__name}', {self.__birthDate}, {self.calculate_age()})"
     
     def calculate_age(self):
         today = date.today()
-        age = today.year - self.birthDate.year - ((today.month, today.day) < (self.birthDate.month, self.birthDate.day)) #does not include leap years
+        age = today.year - self.__birthDate.year - ((today.month, today.day) < (self.__birthDate.month, self.__birthDate.day)) #does not include leap years
         return age
     
     @staticmethod

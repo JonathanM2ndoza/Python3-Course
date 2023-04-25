@@ -16,6 +16,7 @@ cat2.is_declawed()
 dog1 = Dog("Amber", date(2015,7,20))
 print(dog1.name + " is " + str(dog1.calculate_age()) + " years old" )
 dog1.bark()
+dog1.birthDate = date(2015,7,21)
 
 print(dog1.allPets)
 
