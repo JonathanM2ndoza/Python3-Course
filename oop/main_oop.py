@@ -8,6 +8,7 @@ print(cat1.name + " is " + str(cat1.calculate_age()) + " years old" )
 cat1.purr()
 cat1.name = "Thomas Me"
 #cat1.name = "Thomas Mendoza"
+cat1.notification()
 
 cat2 = Cat("Mario", date(2022, 1, 25), False)
 print(cat2.name + " is " + str(cat2.calculate_age()) + " years old" )

@@ -52,3 +52,14 @@ class Pet:
     
     def eat(self):
         print('All pets eat')
+
+    # Example of the Abstraction
+    def __connectServer(self):
+        print("Connecting to the server...")
+
+    def __pushMessage(self):
+        print("Preparing and sending message...")
+
+    def notification (self):
+        self.__connectServer()
+        self.__pushMessage()

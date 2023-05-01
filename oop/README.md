@@ -18,3 +18,12 @@
 
 ![Screenshot](prtsc/mainOOPPython3.jpg)
 
+## Examples of Encapsulation
+
+![Screenshot](prtsc/encapsulationOOPPython3.jpg)
+
+## Examples of Abstraction
+
+![Screenshot](prtsc/abstractionOOPPython3.jpg)
+
+![Screenshot](prtsc/abstraction2OOPPython3.jpg)
