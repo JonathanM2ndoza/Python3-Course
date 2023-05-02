@@ -27,3 +27,11 @@
 ![Screenshot](prtsc/abstractionOOPPython3.jpg)
 
 ![Screenshot](prtsc/abstraction2OOPPython3.jpg)
+
+## Examples of Polymorphism
+
+![Screenshot](prtsc/polymorphism1OOPPython3.jpg)
+
+![Screenshot](prtsc/polymorphism2OOPPython3.jpg)
+
+![Screenshot](prtsc/polymorphism3OOPPython3.jpg)

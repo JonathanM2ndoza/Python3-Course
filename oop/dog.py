@@ -10,3 +10,9 @@ class Dog(Pet):
 
     def bark(self):
           print(f"{self.name} is barking!")
+
+    # Example of the Polymorphism
+    def eat(self):
+        print(f"{self.name} is eating Dog food")   
+    
+    

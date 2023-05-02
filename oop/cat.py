@@ -19,3 +19,7 @@ class Cat(Pet):
              print(f"{self.name} is Declawed")
          else:
             print(f"{self.name} isn't Declawed")
+        
+    # Example of the Polymorphism
+     def eat(self):
+         print(f"{self.name} is eating Cat Food")   
