@@ -28,4 +28,5 @@ Introduction to the concepts of Object Oriented Programming (OOP) on Python:
 - Class / Constructor / Attributes / Methods
 - Class Method  / Static Method / Load File CSV
 - Class inheritance
-- Encapsulation / Getters & Setters / Read-Only Attribute /Private attribute
+- Getters & Setters / Read-Only Attribute / Private attribute
+- Encapsulation / Abstraction / Polymorphism 
