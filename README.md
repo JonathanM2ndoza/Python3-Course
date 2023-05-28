@@ -30,3 +30,7 @@ Introduction to the concepts of Object Oriented Programming (OOP) on Python:
 - Class inheritance
 - Getters & Setters / Read-Only Attribute / Private attribute
 - Encapsulation / Abstraction / Polymorphism 
+
+### 3- advanced
+Advance Python Concepts That You Must Know:
+
