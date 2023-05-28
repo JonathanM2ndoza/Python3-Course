@@ -34,3 +34,6 @@ Introduction to the concepts of Object Oriented Programming (OOP) on Python:
 ### 3- advanced
 Advance Python Concepts That You Must Know:
 
+- Dunder or magic methods
+
+
