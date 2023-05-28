@@ -32,7 +32,7 @@ Introduction to the concepts of Object Oriented Programming (OOP) on Python:
 - Encapsulation / Abstraction / Polymorphism 
 
 ### 3- advanced
-Advance Python Concepts That You Must Know:
+Advance Python concepts that you must know:
 
 - Dunder or magic methods
 
