@@ -7,5 +7,15 @@ class Person:
     def __del__(self):
         print('Destroyed object..')
 
-Ange = Person('Angelica','11')
+    def __repr__(self):
+        return f"{self.__class__.__name__}('{self.__name}', {self.__age})"
+
+    def __call__(self):
+        print('Invoked object..')
+
+ange = Person('Angelica','11')
+print(ange)
+
+ange()
+
 
